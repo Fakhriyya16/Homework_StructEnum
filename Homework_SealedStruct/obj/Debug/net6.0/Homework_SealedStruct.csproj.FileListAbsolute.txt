@@ -1,0 +1,14 @@
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\bin\Debug\net6.0\Homework_SealedStruct.exe
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\bin\Debug\net6.0\Homework_SealedStruct.deps.json
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\bin\Debug\net6.0\Homework_SealedStruct.runtimeconfig.json
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\bin\Debug\net6.0\Homework_SealedStruct.dll
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\bin\Debug\net6.0\Homework_SealedStruct.pdb
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\Homework_SealedStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\Homework_SealedStruct.AssemblyInfoInputs.cache
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\Homework_SealedStruct.AssemblyInfo.cs
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\Homework_SealedStruct.csproj.CoreCompileInputs.cache
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\Homework_SealedStruct.dll
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\refint\Homework_SealedStruct.dll
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\Homework_SealedStruct.pdb
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\Homework_SealedStruct.genruntimeconfig.cache
+D:\VS\Homework_SealedStruct\Homework_SealedStruct\obj\Debug\net6.0\ref\Homework_SealedStruct.dll
